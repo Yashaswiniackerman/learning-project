@@ -18,8 +18,9 @@ public UserInputBox(double dblWidth, double dblHeight, double dblDepth) {
 public UserInputBox()
 {
 }
-public double calcVolume()
+public void calcVolume() 
 {
+
 	//local variable
 double dblTemp;
 }
